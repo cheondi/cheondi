@@ -2,7 +2,7 @@
 
 <br>
 
-<center>⚡프로젝트⚡</center>
+<div align=center>⚡프로젝트⚡</div>
 
 
 
