@@ -2,7 +2,13 @@
 
 <br>
 
-<div align=center>⚡프로젝트⚡</div>
+<div align=center>🙋Introducuction</div>
+
+<div align=center>⚡Skills</div>
+
+<div align=center>📌links</div>
+
+<div align=center>💻Projects</div>
 
 
 
