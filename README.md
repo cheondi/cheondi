@@ -9,12 +9,27 @@
 
 <br>
 
-<div align=center>⚡Skills</div>
-<div align=center><img src="https://img.shields.io/badge/C Sharp-##239120?style=flat&logo=C Sharp&logoColor=black"/></div>
+<div align=center>⚡Main Skills</div>
+<div align=center><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=black"/></div>
+<div align=center><img src="https://img.shields.io/badge/CS-239120?style=flat&logo=C Sharp&logoColor=black"/></div>
 <div align=center><img src="https://img.shields.io/badge/Unity-61DAFB?style=flat&logo=Unity&logoColor=black"/></div>
+<div align=center><img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=OpenGL&logoColor=black"/></div>
 
+<br>
+
+<div align=center>⚡Sub Skills</div>
+<div align=center><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C&logoColor=black"/></div>
+<div align=center><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=black"/></div>
+<div align=center><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=black"/></div>
+
+<BR>
+  
 
 <div align=center>📌links</div>
+  
+  <div align=center><img src="https://img.shields.io/badge/blog-FF5722?style=flat&logo=Blogger&logoColor=black"/></div>
+  <div align=center><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=black"/></div>
+  <div align=center><img src="https://img.shields.io/badge/Google Play-414141?style=flat&logo=Google Play&logoColor=black"/></div>
 
 <div align=center>💻Projects</div>
 
