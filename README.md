@@ -3,8 +3,16 @@
 <br>
 
 <div align=center>🙋Introducuction</div>
+<div align=center>안녕하세요. 권혁준입니다.</div>
+<div align=center>현재 게임 클라이언트 개발자가 되기 위해 공부중입니다.</div>
+<div align=center>잘 부탁드립니다.</div>
+
+<br>
 
 <div align=center>⚡Skills</div>
+<div align=center><img src="https://img.shields.io/badge/C Sharp-##239120?style=flat&logo=C Sharp&logoColor=black"/></div>
+<div align=center><img src="https://img.shields.io/badge/Unity-61DAFB?style=flat&logo=Unity&logoColor=black"/></div>
+
 
 <div align=center>📌links</div>
 
