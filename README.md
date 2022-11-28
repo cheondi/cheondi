@@ -8,7 +8,10 @@
 <div align=center>안녕하세요. 권혁준입니다.</div>
 <div align=center>현재 게임 클라이언트 개발자가 되기 위해 공부중입니다.</div>
 <div align=center>잘 부탁드립니다.</div>
-
+<br>
+<div align=center>📭E-Mail</div>
+<br>
+<div align=center>kwon95799@gamil.com</div>
 <br>
 
 <div align=center>⚡Main Skills</div>
