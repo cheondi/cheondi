@@ -18,7 +18,7 @@
 <br>
 
 <div align=center>⚡Sub Skills</div>
-<div align=center><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C&logoColor=black"/></div>
+<div align=center><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=black"/></div>
 <div align=center><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=black"/></div>
 <div align=center><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=black"/></div>
 
@@ -27,9 +27,9 @@
 
 <div align=center>📌links</div>
   
-  <div align=center><img src="https://img.shields.io/badge/blog-FF5722?style=flat&logo=Blogger&logoColor=black"/></div>
-  <div align=center><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=black"/></div>
-  <div align=center><img src="https://img.shields.io/badge/Google Play-414141?style=flat&logo=Google Play&logoColor=black"/></div>
+  <div align=center><a href="https://cheondi.github.io/"><img src="https://img.shields.io/badge/blog-FF5722?style=flat&logo=Blogger&logoColor=black"/></div>
+  <div align=center><a href="https://www.youtube.com/channel/UCHH3na6Sx02Pb4UdCo14sjQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=black"/></div>
+  <div align=center><a href="https://play.google.com/store/apps/details?id=com.cheondi.mess"><img src="https://img.shields.io/badge/Google Play-414141?style=flat&logo=Google Play&logoColor=black"/></div>
 
 <div align=center>💻Projects</div>
 
