@@ -51,16 +51,16 @@ Unity와 C#으로 클라이언트 개발을 시작해 웹·API 연동과 운영 
 <div align="center">
   <a href="https://github.com/cheondi">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=cheondi&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=79c0ff&amp;locale=kr" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=cheondi&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=24292f&amp;icon_color=0969da&amp;locale=kr" />
-      <img height="175" src="https://github-readme-stats.vercel.app/api?username=cheondi&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=79c0ff&amp;locale=kr" alt="Cheondi GitHub 통계" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cheondi/cheondi/output/github-stats-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cheondi/cheondi/output/github-stats-light.svg" />
+      <img height="175" src="https://raw.githubusercontent.com/cheondi/cheondi/output/github-stats-dark.svg" alt="Cheondi GitHub 통계" />
     </picture>
   </a>
   <a href="https://github.com/cheondi?tab=repositories">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=cheondi&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=cheondi&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=24292f" />
-      <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=cheondi&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9" alt="Cheondi 저장소 주요 언어" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cheondi/cheondi/output/top-langs-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cheondi/cheondi/output/top-langs-light.svg" />
+      <img height="175" src="https://raw.githubusercontent.com/cheondi/cheondi/output/top-langs-dark.svg" alt="Cheondi 저장소 주요 언어" />
     </picture>
   </a>
 </div>
@@ -68,9 +68,9 @@ Unity와 C#으로 클라이언트 개발을 시작해 웹·API 연동과 운영 
 <div align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=cheondi&amp;hide_border=true&amp;background=0D1117&amp;ring=58A6FF&amp;fire=79C0FF&amp;currStreakLabel=58A6FF&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;stroke=30363D" />
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=cheondi&amp;hide_border=true&amp;background=FFFFFF&amp;ring=0969DA&amp;fire=0969DA&amp;currStreakLabel=0969DA&amp;sideLabels=24292F&amp;dates=57606A&amp;stroke=D0D7DE" />
-      <img src="https://streak-stats.demolab.com?user=cheondi&amp;hide_border=true&amp;background=0D1117&amp;ring=58A6FF&amp;fire=79C0FF&amp;currStreakLabel=58A6FF&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;stroke=30363D" alt="Cheondi GitHub 연속 활동" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cheondi/cheondi/output/streak-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cheondi/cheondi/output/streak-light.svg" />
+      <img src="https://raw.githubusercontent.com/cheondi/cheondi/output/streak-dark.svg" alt="Cheondi GitHub 연속 활동" />
     </picture>
   </a>
 </div>

@@ -25,6 +25,56 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#58a6ff
 
+      - name: Generate dark stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&locale=kr
+          path: dist/github-stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate light stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da&locale=kr
+          path: dist/github-stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate dark languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9
+          path: dist/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate light languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f
+          path: dist/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate dark streak card
+        uses: DenverCoder1/github-readme-streak-stats@v1.7.0
+        with:
+          options: user=${{ github.repository_owner }}&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&timezone=Asia/Seoul
+          path: dist/streak-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate light streak card
+        uses: DenverCoder1/github-readme-streak-stats@v1.7.0
+        with:
+          options: user=${{ github.repository_owner }}&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=24292F&dates=57606A&stroke=D0D7DE&timezone=Asia/Seoul
+          path: dist/streak-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

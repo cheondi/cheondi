@@ -8,6 +8,10 @@
 
 **Tech Stack:** GitHub Flavored Markdown, GitHub 허용 HTML, SVG/CSS animation, Shields.io, Skill Icons, Readme Typing SVG, GitHub Readme Stats, Streak Stats, Activity Graph, GitHub Actions, Node.js validation script
 
+## Execution Note
+
+실행 중 `github-readme-stats` 공개 인스턴스의 반복 HTTP 503과 `streak-stats` 공개 인스턴스의 15초 타임아웃을 확인했다. 두 서비스 모두 Actions에서 정적 SVG를 생성해 `output` 브랜치에 게시하는 방식으로 전환한다. 아래 초기 예시의 공개 통계 URL보다 이 실행 메모와 최종 파일 구성이 우선한다.
+
 ## Global Constraints
 
 - 시각 테마는 `#0d1117`, `#07111b`, `#0d1b2a` 배경과 `#58a6ff` 주 강조색으로 통일한다.
