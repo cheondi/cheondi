@@ -29,6 +29,7 @@ if (existsSync(readmePath)) {
     'github-readme-stats.vercel.app',
     'streak-stats.demolab.com',
     'github-readme-activity-graph.vercel.app',
+    'raw.githubusercontent.com/cheondi/cheondi/output/',
     '<details>',
     '이 README는 AI를 활용해서 적어봤습니다.',
   ];
@@ -36,6 +37,14 @@ if (existsSync(readmePath)) {
     if (!readme.includes(token)) errors.push(`README missing token: ${token}`);
   }
   if (/^\s*\|.*\|\s*$/m.test(readme)) errors.push('Markdown table syntax is not allowed');
+}
+
+const workflowPath = requireFile('.github/workflows/snake.yml');
+if (existsSync(workflowPath)) {
+  const workflow = readFileSync(workflowPath, 'utf8');
+  for (const token of ['schedule:', 'workflow_dispatch:', 'contents: write', 'Platane/snk/svg-only@v3', 'target_branch: output']) {
+    if (!workflow.includes(token)) errors.push(`snake workflow missing token: ${token}`);
+  }
 }
 
 if (errors.length) {
