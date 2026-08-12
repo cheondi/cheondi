@@ -1,57 +1,26 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&height=200&section=header&text=Developer%20cheondi&fontSize=80)
+# 권혁준 (Cheondi)
 
-<br>
+Unity와 C#으로 클라이언트 개발을 시작했습니다. 일을 하면서 웹과 API 연동, 빌드 환경, 운영 중 생기는 문제까지 자연스럽게 다루게 됐습니다.
 
-<div align=center>🙋Introducuction</div>
+요즘은 AI 도구를 개발 과정에 무리 없이 붙이는 방법을 공부하고 있습니다. 새 기술을 바로 가져다 쓰기보다, 어디까지 맡길 수 있고 결과를 어떻게 확인할지를 먼저 보는 편입니다.
 
-<br>
-<div align=center>안녕하세요. 권혁준입니다.</div>
-<div align=center>현재 게임 클라이언트 개발자가 되기 위해 공부중입니다.</div>
-<div align=center>잘 부탁드립니다.</div>
-<br>
-<div align=center>📭E-Mail</div>
-<br>
-<div align=center>kwon95799@gamil.com</div>
-<br>
+[기술 기록](https://cheondi.github.io/) · [이메일](mailto:kwon95799@gmail.com)
 
-<div align=center>⚡Main Skills</div>
+## 지금까지 해본 것
 
-<br>
+| Unity와 클라이언트 | 웹과 API 연동 |
+| --- | --- |
+| JSON 데이터로 오브젝트를 만드는 구조를 분석했습니다.<br>WebGL과 Android 빌드 환경의 차이를 다뤘습니다.<br>로그인, 저장 데이터, 화면 상태 문제를 추적했습니다.<br><br>[충격적인 오브젝트 생성법](https://cheondi.github.io/2023/02/18/shocking-object-creation.html)<br>[Unity WebGL·Android 빌드 차이](https://cheondi.github.io/2024/03/23/unity-webgl-android-build.html) | 클라이언트와 API 사이의 인증·세션 흐름을 살펴봤습니다.<br>콜백 중복, 재시도와 상태 불일치를 다뤘습니다.<br>브라우저 정책과 WebGL 저장 방식도 함께 확인했습니다.<br><br>[API 워크플로와 재시도 경계](https://cheondi.github.io/2026/06/28/api-workflow-retry-boundary.html) |
 
-<div align=center><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/CS-239120?style=flat&logo=C Sharp&logoColor=black"/> <img src="https://img.shields.io/badge/Unity-61DAFB?style=flat&logo=Unity&logoColor=black"/> <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=OpenGL&logoColor=black"/></div>
+| 운영 중 생긴 문제 | 요즘 보고 있는 것 |
+| --- | --- |
+| 화면에서 시작해 API, 로그, 배포 파일 순서로 원인을 확인합니다.<br>환경 차이와 오래 남아 있는 상태를 분리해서 봅니다.<br>수정 뒤에는 코드, 빌드와 실제 화면을 따로 확인합니다.<br><br>[코드·테스트·배포를 잇는 검증 기록](https://cheondi.github.io/2026/08/10/evidence-before-ai-answer.html) | AI 에이전트의 도구 실행과 권한을 살펴보고 있습니다.<br>중단했다가 이어갈 수 있는 작업 흐름을 정리하고 있습니다.<br>결과를 믿기 위해 어떤 증거가 필요한지도 함께 보고 있습니다.<br><br>[AI 에이전트 개발의 현실적인 도입 순서](https://cheondi.github.io/2026/08/11/agent-engineering-adoption-order.html) |
 
-<br>
+## 사용해 본 기술
 
-<div align=center>⚡Sub Skills</div>
+- 주로 사용: `C#`, `Unity`, `Git`
+- 함께 사용: `JavaScript`, `React`, `REST API`, `gRPC`, `SQL`
+- 빌드와 운영: `WebGL`, `Android`, `CI/CD`, 로그 분석
+- 최근 관심: `Codex`, `Agent Harness`, `MCP`, `Evals`
 
-<br>
-<div align=center><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=black"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=black"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=black"/></div>
-
-<BR>
-  
-
-<div align=center>📌links</div>
-  <br>
-  
-  <div align=center><a href="https://cheondi.github.io/"><img src="https://img.shields.io/badge/blog-FF5722?style=flat&logo=Blogger&logoColor=black"/> <a href="https://www.youtube.com/channel/UCHH3na6Sx02Pb4UdCo14sjQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=black"/> <a href="https://play.google.com/store/apps/details?id=com.cheondi.mess"><img src="https://img.shields.io/badge/Google Play-414141?style=flat&logo=Google Play&logoColor=black"/></div>
-<br>
-<div align=center>💻Projects</div>
-<br>
-<div align=center><a href="https://cheondi.github.io/categories/#projecta"><img src="https://img.shields.io/badge/배틀몬스터즈-101010?style=flat&logo=Unity&logoColor=black"/> <a href="https://cheondi.github.io/categories/#mess"><img src="https://img.shields.io/badge/엉망진창가로세로-E8E8E8?style=flat&logo=Unity&logoColor=black"/></div>
-<br>
-
-  
-<!--
-**cheondi/cheondi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+공개하기 어려운 구체적인 정보 대신, 다른 문제에도 다시 써먹을 수 있었던 과정과 배운 점을 [블로그](https://cheondi.github.io/)에 정리하고 있습니다.
