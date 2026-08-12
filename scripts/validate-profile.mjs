@@ -19,6 +19,25 @@ if (existsSync(headerPath)) {
   if (!svg.trimEnd().endsWith('</svg>')) errors.push('header is not closed');
 }
 
+const readmePath = requireFile('README.md');
+if (existsSync(readmePath)) {
+  const readme = readFileSync(readmePath, 'utf8');
+  const required = [
+    './assets/profile-header.svg',
+    'readme-typing-svg.demolab.com',
+    'skillicons.dev',
+    'github-readme-stats.vercel.app',
+    'streak-stats.demolab.com',
+    'github-readme-activity-graph.vercel.app',
+    '<details>',
+    '이 README는 AI를 활용해서 적어봤습니다.',
+  ];
+  for (const token of required) {
+    if (!readme.includes(token)) errors.push(`README missing token: ${token}`);
+  }
+  if (/^\s*\|.*\|\s*$/m.test(readme)) errors.push('Markdown table syntax is not allowed');
+}
+
 if (errors.length) {
   console.error(errors.join('\n'));
   process.exit(1);

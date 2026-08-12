@@ -1,26 +1,109 @@
-# 권혁준 (Cheondi)
+<div align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Cheondi 개발자 프로필 헤더" />
 
-Unity와 C#으로 클라이언트 개발을 시작했습니다. 일을 하면서 웹과 API 연동, 빌드 환경, 운영 중 생기는 문제까지 자연스럽게 다루게 됐습니다.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=3500&amp;pause=900&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=Unity+Client+Development;WebGL+%26+Android+Build;API+Integration+%26+Live+Operations;AI+Harness+%26+Verification+Loop" alt="현재 다루고 있는 개발 영역" />
+  </a>
+</div>
 
-요즘은 AI 도구를 개발 과정에 무리 없이 붙이는 방법을 공부하고 있습니다. 새 기술을 바로 가져다 쓰기보다, 어디까지 맡길 수 있고 결과를 어떻게 확인할지를 먼저 보는 편입니다.
+Unity와 C#으로 클라이언트 개발을 시작해 웹·API 연동과 운영 문제까지 다뤄왔습니다. 문제가 생기면 화면에서 출발해 코드, API, 로그와 배포 환경을 차례로 확인하는 편입니다.
 
-[기술 기록](https://cheondi.github.io/) · [이메일](mailto:kwon95799@gmail.com)
+요즘은 AI 도구를 실제 개발 흐름에 붙이고, 결과를 믿기 위해 어떤 검증이 필요한지 정리하고 있습니다.
 
-## 지금까지 해본 것
+<div align="center">
+  <a href="https://cheondi.github.io/"><img src="https://img.shields.io/badge/TECH%20LOG-0D1117?style=for-the-badge&amp;logo=githubpages&amp;logoColor=58A6FF" alt="Cheondi 기술 기록" /></a>
+  <a href="mailto:kwon95799@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=58A6FF" alt="Cheondi 이메일" /></a>
+  <a href="https://github.com/cheondi"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=58A6FF" alt="Cheondi GitHub" /></a>
+</div>
 
-| Unity와 클라이언트 | 웹과 API 연동 |
-| --- | --- |
-| JSON 데이터로 오브젝트를 만드는 구조를 분석했습니다.<br>WebGL과 Android 빌드 환경의 차이를 다뤘습니다.<br>로그인, 저장 데이터, 화면 상태 문제를 추적했습니다.<br><br>[충격적인 오브젝트 생성법](https://cheondi.github.io/2023/02/18/shocking-object-creation.html)<br>[Unity WebGL·Android 빌드 차이](https://cheondi.github.io/2024/03/23/unity-webgl-android-build.html) | 클라이언트와 API 사이의 인증·세션 흐름을 살펴봤습니다.<br>콜백 중복, 재시도와 상태 불일치를 다뤘습니다.<br>브라우저 정책과 WebGL 저장 방식도 함께 확인했습니다.<br><br>[API 워크플로와 재시도 경계](https://cheondi.github.io/2026/06/28/api-workflow-retry-boundary.html) |
+---
 
-| 운영 중 생긴 문제 | 요즘 보고 있는 것 |
-| --- | --- |
-| 화면에서 시작해 API, 로그, 배포 파일 순서로 원인을 확인합니다.<br>환경 차이와 오래 남아 있는 상태를 분리해서 봅니다.<br>수정 뒤에는 코드, 빌드와 실제 화면을 따로 확인합니다.<br><br>[코드·테스트·배포를 잇는 검증 기록](https://cheondi.github.io/2026/08/10/evidence-before-ai-answer.html) | AI 에이전트의 도구 실행과 권한을 살펴보고 있습니다.<br>중단했다가 이어갈 수 있는 작업 흐름을 정리하고 있습니다.<br>결과를 믿기 위해 어떤 증거가 필요한지도 함께 보고 있습니다.<br><br>[AI 에이전트 개발의 현실적인 도입 순서](https://cheondi.github.io/2026/08/11/agent-engineering-adoption-order.html) |
+## `$ focus --now`
 
-## 사용해 본 기술
+> **클라이언트 · 웹/API · 운영 검증 · AI 개발 흐름**
 
-- 주로 사용: `C#`, `Unity`, `Git`
-- 함께 사용: `JavaScript`, `React`, `REST API`, `gRPC`, `SQL`
-- 빌드와 운영: `WebGL`, `Android`, `CI/CD`, 로그 분석
-- 최근 관심: `Codex`, `Agent Harness`, `MCP`, `Evals`
+- **Unity Client** — JSON 기반 오브젝트 구조, WebGL과 Android 빌드 환경
+- **Web & API** — 인증·세션·재시도와 클라이언트/API 경계
+- **Live Operations** — 화면, 로그, 배포 파일과 실제 동작을 연결한 원인 추적
+- **AI Engineering** — 에이전트 하네스, 작업 루프와 결과 검증
 
-공개하기 어려운 구체적인 정보 대신, 다른 문제에도 다시 써먹을 수 있었던 과정과 배운 점을 [블로그](https://cheondi.github.io/)에 정리하고 있습니다.
+## `$ stack --list`
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,unity,js,react,git,github,mysql,visualstudio,vscode&amp;theme=dark&amp;perline=9" alt="C#, Unity, JavaScript, React, Git, GitHub, MySQL, Visual Studio, VS Code" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/REST%20API-161B22?style=flat-square&amp;logo=fastapi&amp;logoColor=79C0FF" alt="REST API" />
+  <img src="https://img.shields.io/badge/gRPC-161B22?style=flat-square&amp;logo=google&amp;logoColor=79C0FF" alt="gRPC" />
+  <img src="https://img.shields.io/badge/WebGL-161B22?style=flat-square&amp;logo=webgl&amp;logoColor=79C0FF" alt="WebGL" />
+  <img src="https://img.shields.io/badge/Android-161B22?style=flat-square&amp;logo=android&amp;logoColor=79C0FF" alt="Android" />
+  <img src="https://img.shields.io/badge/CI%2FCD-161B22?style=flat-square&amp;logo=githubactions&amp;logoColor=79C0FF" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/LOG%20ANALYSIS-161B22?style=flat-square&amp;logo=grafana&amp;logoColor=79C0FF" alt="로그 분석" />
+</div>
+
+## `$ github --signal`
+
+<div align="center">
+  <a href="https://github.com/cheondi">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=cheondi&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=79c0ff&amp;locale=kr" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=cheondi&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=24292f&amp;icon_color=0969da&amp;locale=kr" />
+      <img height="175" src="https://github-readme-stats.vercel.app/api?username=cheondi&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=79c0ff&amp;locale=kr" alt="Cheondi GitHub 통계" />
+    </picture>
+  </a>
+  <a href="https://github.com/cheondi?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=cheondi&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=cheondi&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=24292f" />
+      <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=cheondi&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9" alt="Cheondi 저장소 주요 언어" />
+    </picture>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=cheondi&amp;hide_border=true&amp;background=0D1117&amp;ring=58A6FF&amp;fire=79C0FF&amp;currStreakLabel=58A6FF&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;stroke=30363D" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=cheondi&amp;hide_border=true&amp;background=FFFFFF&amp;ring=0969DA&amp;fire=0969DA&amp;currStreakLabel=0969DA&amp;sideLabels=24292F&amp;dates=57606A&amp;stroke=D0D7DE" />
+      <img src="https://streak-stats.demolab.com?user=cheondi&amp;hide_border=true&amp;background=0D1117&amp;ring=58A6FF&amp;fire=79C0FF&amp;currStreakLabel=58A6FF&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;stroke=30363D" alt="Cheondi GitHub 연속 활동" />
+    </picture>
+  </a>
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=cheondi&amp;bg_color=0d1117&amp;color=c9d1d9&amp;line=58a6ff&amp;point=79c0ff&amp;area=true&amp;hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=cheondi&amp;bg_color=ffffff&amp;color=24292f&amp;line=0969da&amp;point=54aeff&amp;area=true&amp;hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cheondi&amp;bg_color=0d1117&amp;color=c9d1d9&amp;line=58a6ff&amp;point=79c0ff&amp;area=true&amp;hide_border=true" alt="Cheondi 최근 GitHub 활동 그래프" />
+</picture>
+
+## `$ log --featured`
+
+<details>
+<summary><strong>경험과 대표 기록 펼쳐보기</strong></summary>
+
+### Unity와 클라이언트
+
+- [충격적인 오브젝트 생성법](https://cheondi.github.io/2023/02/18/shocking-object-creation.html)
+- [Unity WebGL·Android 빌드 차이](https://cheondi.github.io/2024/03/23/unity-webgl-android-build.html)
+
+### API와 운영 검증
+
+- [API 워크플로와 재시도 경계](https://cheondi.github.io/2026/06/28/api-workflow-retry-boundary.html)
+- [코드·테스트·배포를 잇는 검증 기록](https://cheondi.github.io/2026/08/10/evidence-before-ai-answer.html)
+
+### AI 개발 흐름
+
+- [AI 에이전트 개발의 현실적인 도입 순서](https://cheondi.github.io/2026/08/11/agent-engineering-adoption-order.html)
+
+</details>
+
+---
+
+<div align="center">
+  <sub>이 README는 AI를 활용해서 적어봤습니다.</sub>
+</div>
