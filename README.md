@@ -102,14 +102,6 @@ Unity와 C#으로 클라이언트 개발을 시작해 웹·API 연동과 운영 
 
 </details>
 
-## `$ contributions --animate`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cheondi/cheondi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cheondi/cheondi/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="Cheondi GitHub 기여도 스네이크" src="https://raw.githubusercontent.com/cheondi/cheondi/output/github-contribution-grid-snake.svg" />
-</picture>
-
 ---
 
 <div align="center">
